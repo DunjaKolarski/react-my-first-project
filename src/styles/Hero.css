@@ -48,3 +48,18 @@
     width: 10rem;
   }
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .hero {
+    height: 50vh;
+    justify-content: center;
+    gap: 10rem;
+  }
+  .spa-pictures {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .spa-pictures img {
+    width: 15rem;
+  }
+}

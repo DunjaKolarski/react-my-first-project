@@ -38,3 +38,9 @@
     height: 35vh;
   }
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .contact {
+    height: 30vh;
+  }
+}

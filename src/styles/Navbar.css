@@ -39,3 +39,9 @@
     height: 10vh;
   }
 }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .navbar {
+    height: 8vh;
+  }
+}
