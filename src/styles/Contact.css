@@ -1,34 +1,34 @@
 .contact {
-    height: 50vh;
-    width: 100%;
-    background-color: #edffff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 2rem;
+  height: 50vh;
+  width: 100%;
+  background-color: #edffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
 }
 .contact > h2 {
-    font-size: 1.5rem;
-    color: #ff57cd;
+  font-size: 1.5rem;
+  color: #ff57cd;
 }
 .contact-info {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
 }
 .contact-info > section {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.5rem;
 }
 .contact-info > section > h3 {
-    font-size: 1.2rem;
-    color: #ff57cd;
+  font-size: 1.2rem;
+  color: #ff57cd;
 }
 .contact-info > section > p {
-    font-size: 1rem;
-    color: #00545f;
+  font-size: 1rem;
+  color: #00545f;
 }
