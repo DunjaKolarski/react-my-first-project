@@ -25,3 +25,15 @@
     height: 40vh;
   }
 }
+
+@media (max-width: 767px) and (orientation: landscape) {
+  .about {
+    height: 50vh;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .about {
+    height: 50vh;
+  }
+}
