@@ -33,3 +33,9 @@
   color: #00545f;
   font-weight: bold;
 }
+
+@media (max-width: 767px) {
+  .navbar {
+    height: 10vh;
+  }
+}
