@@ -37,6 +37,7 @@
 .spa-pictures img {
   width: 25rem;
   height: auto;
+  border-radius: 1rem;
 }
 
 @media (max-width: 767px) {
